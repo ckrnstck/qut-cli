@@ -1,0 +1,22 @@
+{
+  "name": "@ckrnstck/qut-cli",
+  "author": {
+    "name": "Christian Kernstock",
+    "email": "c.kernstock@me.com",
+    "url": "https://ckrnstck.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckrnstck/qut-cli.git"
+  },
+  "version": "0.0.1",
+  "main": "cli.js",
+  "license": "MIT",
+  "bin": {
+    "qut": "cli.js"
+  },
+  "dependencies": {
+    "@ckrnstck/qut": "^0.0.1",
+    "yargs": "^15.1.0"
+  }
+}
