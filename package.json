@@ -16,7 +16,7 @@
     "qut": "cli.js"
   },
   "dependencies": {
-    "@ckrnstck/qut": "^0.0.1",
+    "@ckrnstck/qut": "*",
     "yargs": "^15.1.0"
   }
 }
